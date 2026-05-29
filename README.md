@@ -8,6 +8,7 @@ No PostgreSQL needed! Uses SQLite (file-based database, zero config).
 
 ### Terminal 1 — Backend
 ```bash
+cd "C:\Users\sumai\Downloads\lead-crm-sqlite (2)\lead-crm-sqlite\backend"
 cd backend
 npm install
 npm run dev
@@ -20,6 +21,7 @@ npm run dev
 
 ### Terminal 2 — Frontend
 ```bash
+cd "C:\Users\sumai\Downloads\lead-crm-sqlite (2)\lead-crm-sqlite\frontend"
 cd frontend
 npm install
 npm start
